@@ -58,7 +58,7 @@
 
 ### Kaiser Permanente Colorado | Denver, CO | *11/2002 - 07/2012* ###
 
-* <span style="color:orangered">__*10/2009 - 07/2012* | Administrative Assistant__</span>
+* __*10/2009 - 07/2012* | Administrative Assistant__
 
   * Managed administrative needs of two high functioning medical departments, comprising 163 medical professionals in a high pressure environment, and provided weekly support to the surgical specialty executive director, and 2 co-operations chiefs.
   * Managed 9 calendars, scheduling 98% of all meeting requests within 72 hours.
@@ -67,7 +67,7 @@
 
 
 
-* <span style="color:orangered">__*10/2008 - 10/2009* | Prevention Support Associate__</span>
+* __*10/2008 - 10/2009* | Prevention Support Associate__
 
   * Provided patient phone and U.S. mail outreach to patients requiring colorectal cancer screening.  Screening increased from 35% to 80% due to team outreach.
   * Integrated 1,000 patients into population management for evaluation of key health outcomes and health system capacity.
@@ -76,7 +76,7 @@
 
 
 
-* <span style="color:orangered">__*11/2003 - 10/2008* | Medical Receptionist__</span>
+* __*11/2003 - 10/2008* | Medical Receptionist__
 
   * Greeted 100 scheduled patients daily as well as internal and external customers requesting general
 assistance
@@ -88,7 +88,7 @@ medical appointments to ensure patient satisfaction and quality healthcare servi
   * Recorded and distributed monthly department meeting minutes
 
 
-* <span style="color:orangered">__*11/2002 - 11/2003* | Call Center Service Associate__</span>
+* __*11/2002 - 11/2003* | Call Center Service Associate__
   * Answered 23 incoming calls per hour and schedules requested appointments and/or directs caller to
 requested advise nurse  
   * Mentored 3 new employees and coached their phone etiquette and phone scripting
