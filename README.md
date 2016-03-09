@@ -1,10 +1,3 @@
-<style>
-h2 { color: darkcyan;}
-h3 { color: olivedrab;}
-h4 { color: orangered;}
-li { color: darkslategray;}
-</style>
-
 # Melody Ruark #
 <div style="text-align:right;">![Melody Ruark](https://media.licdn.com/media/p/2/000/281/0a8/1918c8b.jpg)
 
@@ -130,4 +123,3 @@ requested advise nurse
 
 * 2014 - Present *Member of the University of Washington Medical Center Recognition Committee*
 * 2010-Present *Lambda Pi Eta, Sigma Psi Chapter, Communication Honor Society*  
-
