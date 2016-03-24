@@ -23,7 +23,7 @@
 ## Work Experience ##
 
 ### University of Washington Medical Center | Seattle, WA ###
-#### *10/2014 - Present* | Administrative Specialist ####
+#### *06/2014 - Present* | Administrative Specialist ####
 
 * Manage 4 complex calendars; coordinate an average of 55 meetings per month; responsible for project coordination to meet deadlines and budget.
 * Confidential liaison between Associate Administrator, project managers, vendors, internal and external clients demonstrating excellent verbal and written communication skills as a primary point of contact relaying sensitive communication.
@@ -35,14 +35,14 @@
 ### University of Washington, School of Medicine ###
 #### *07/2012 - 06/2014* | Administrative Assistant Supervisor ####
 
-* Principal assistant to division chief, director, and fellowship director to independently prioritize and track critical tasks and requests for leadership time
+* Principal assistant to division chief, director, and fellowship director to independently prioritize and track critical tasks and requests for leadership time.
   * Served as a confidential liaison between UW Pain Division leadership and internal and external clients, coordinated complex meetings and events across competing deadlines.
 * Project lead fielding incoming, high-level administrative contacts on legally complex issues with extreme diplomacy, discretion, and confidentiality to ensure compliance with the integrity of UW policies and procedures. Identified and developed legal consultation fee-for-service process.
   * Collaborated with UW Physicians on billing process, and acted as a point of contact for the division on all legal consults.
   * Project plan increased access to medical consults from 8 weeks to 1 week, and division increased medical-legal cases from 4 in a two-year period to 6 cases completed in Fiscal Year 2013, generating $2,650 for the division.  Organized, maintained, and retrieved confidential filing system of all legal documentation.  Designed reporting system to track, compile, and interpret data for requested fiscal reports.  Summarized program to internal and external audiences as needed.
 * Project lead for the OAT Telehealth Program.  Served as a liaison between UW Pain Medicine Division and rural clinics requesting Telehealth consultations with Pain Medicine Specialists for chronic pain patients. Tracked all in-coming requests; worked with rural clinics to schedule consultations with referred patients, tracked appointments and patient data to create monthly data reports for program research coordinator.
 * Implemented action plan to facilitate webpage design for The Scan | Design Foundation Grant.  Collaborated with the UW Advancement Office, The Scan | Design Foundation, and the department website manager to develop content, launch the webpage, and link it across multiple websites.
-* Collaborated with clinical staff to revise division intranet and public webpages.  Use increased among staff, patients, and community providers
+* Collaborated with clinical staff to revise division intranet and public webpages.  Use increased among staff, patients, and community providers.
 
 
 ### Foreign Service Institute United States Department of State | Washington, D.C. ###
@@ -50,7 +50,7 @@
 
 * Investigated subject matter gaps, recruited expert speakers, and implemented a 3-hour session to 70 graduate level students to address federal priorities, culminating in a first ever session on Women’s Issues in Africa.
 * Involved with all activities and processes of the project’s lifecycle, facilitating collaboration between Secretary Clinton’s Senior Advisor for the Secretary’s Fund for Women and Girls and gender issues training from the United State Agency for International Development.
-* Liaison between student officers and department leadership, thoroughly familiar with details of interdisciplinary program, and expanded the curriculum to relevant topics officers confront
+* Liaison between student officers and department leadership, thoroughly familiar with details of interdisciplinary program, and expanded the curriculum to relevant topics officers confront.
 * Introduced expert speakers to an audience of 70 graduate level students.
 * Coordinated all technical support for classroom sessions and problem-solved technical difficulties.
 * Drafted a test question data bank, achieving 100% compliance with bureau requirements that track student progress.
@@ -79,19 +79,19 @@
 * __*11/2003 - 10/2008* | Medical Receptionist__
 
   * Greeted 100 scheduled patients daily as well as internal and external customers requesting general
-assistance
-  * Scheduled more than 50 appointments daily
-  * Ordered and maintained an inventory of 50 patient education handouts and a variety of office supplies 
+assistance.
+  * Scheduled more than 50 appointments daily.
+  * Ordered and maintained an inventory of 50 patient education handouts and a variety of office supplies.
   * Created and maintained a tracking sheet to outreach an average of 30 members per month in need of 
-medical appointments to ensure patient satisfaction and quality healthcare services   
+medical appointments to ensure patient satisfaction and quality healthcare services.   
   *  Designed a job profile to standardize the medical receptionist role throughout the medical office
-  * Recorded and distributed monthly department meeting minutes
+  * Recorded and distributed monthly department meeting minutes.
 
 
 * __*11/2002 - 11/2003* | Call Center Service Associate__
   * Answered 23 incoming calls per hour and schedules requested appointments and/or directs caller to
-requested advise nurse  
-  * Mentored 3 new employees and coached their phone etiquette and phone scripting
+requested advise nurse.  
+  * Mentored 3 new employees and coached their phone etiquette and phone scripting.
  
 
 ## Computer Skills ##
